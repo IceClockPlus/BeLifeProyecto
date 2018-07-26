@@ -18,18 +18,18 @@
         </Grid>
 
         <Grid HorizontalAlignment="Left" Height="135" Margin="290,168,0,0" VerticalAlignment="Top" Width="260" Background="#FF423D3D">
-            <Label Content="TOTAL" HorizontalAlignment="Left" Margin="10,59,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Height="37" />
-            <TextBlock x:Name="TNumClientes" Margin="0,25,45,55" FontSize="30" FontWeight="Bold" HorizontalAlignment="Right" Width="70"/>
-            <Label Content="CLIENTES" HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.395,0" FontWeight="Bold" Height="24" Width="118" />
+            <Label Content="TOTAL" HorizontalAlignment="Left" Margin="10,22,0,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold" Height="45" Width="95" />
+            <TextBlock x:Name="TNumClientes" Margin="0,32,20,48" FontSize="30" FontWeight="Bold" HorizontalAlignment="Right" Width="70"/>
+            <Label Content="CLIENTES" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.395,0" FontWeight="Bold" Height="35" Width="118" FontSize="20" />
         </Grid>
 
         <Grid HorizontalAlignment="Left" Height="135" Margin="612,168,0,0" VerticalAlignment="Top" Width="260" Background="#FF423D3D" >
-            <Label Content="TOTAL" HorizontalAlignment="Left" Margin="10,59,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Height="37" />
-            <TextBlock x:Name="TNumContratos" HorizontalAlignment="Left" Margin="160,25,0,0" VerticalAlignment="Top" Height="55" Width="70" FontSize="30" FontWeight="Bold"/>
-            <Label Content="CONTRATOS" HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.395,0" FontWeight="Bold" Height="24" Width="118" />
+            <Label Content="TOTAL" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold" Height="42" />
+            <TextBlock x:Name="TNumContratos" HorizontalAlignment="Left" Margin="168,25,0,0" VerticalAlignment="Top" Height="55" Width="70" FontSize="30" FontWeight="Bold"/>
+            <Label Content="CONTRATOS" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.395,0" FontWeight="Bold" Height="39" Width="118" FontSize="20" />
         </Grid>
-        <Button Content="LISTAR CLIENTES" Style="{StaticResource AccentedSquareButtonStyle}"  HorizontalAlignment="Left" Margin="290,381,0,0" VerticalAlignment="Top" Width="260" Height="62" FontSize="30" FontFamily="Segoe UI" FontWeight="Normal"/>
-        <Button Content="LISTAR CONTRATOS" Style="{StaticResource AccentedSquareButtonStyle}"  HorizontalAlignment="Left" Margin="612,381,0,0" VerticalAlignment="Top" Width="260" Height="62" FontSize="30" FontFamily="Segoe UI" FontWeight="Normal"/>
+        <Button x:Name="BtnListarClientes" Content="LISTAR CLIENTES" Style="{StaticResource AccentedSquareButtonStyle}"  HorizontalAlignment="Left" Margin="290,381,0,0" VerticalAlignment="Top" Width="260" Height="62" FontSize="30" FontFamily="Segoe UI" FontWeight="Normal" Click="BtnListarClientes_Click_1"/>
+        <Button x:Name="BtnListarContratos" Content="LISTAR CONTRATOS" Style="{StaticResource AccentedSquareButtonStyle}"  HorizontalAlignment="Left" Margin="612,381,0,0" VerticalAlignment="Top" Width="260" Height="62" FontSize="30" FontFamily="Segoe UI" FontWeight="Normal" Click="BtnListarContratos_Click_1"/>
 
         <Label Content="RESUMEN GENERAL" HorizontalAlignment="Left" Margin="290,113,0,0" VerticalAlignment="Top" FontSize="24" Width="225"/>
 

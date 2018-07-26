@@ -215,6 +215,23 @@ namespace BelifeLibrary
 
         }
 
+        public int ContarTotalClientes()
+        {
+
+            try
+            {
+                int NumeroClientes = bbdd.Cliente.Count();
+
+                return NumeroClientes;
+            }
+            catch (Exception er)
+            {
+
+                return 0;
+            }
+        }
+
+
         /// <summary>
         /// Busca un cliente que coincida con el rut entregado como parametro.
         /// En caso de ser encontrado, crea una nueva instancia Cliente de la librería de clases, y la retorna.

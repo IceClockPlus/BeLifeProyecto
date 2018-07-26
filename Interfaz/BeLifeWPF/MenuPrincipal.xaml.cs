@@ -14,6 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace BeLifeWPF
 {
     /// <summary>
@@ -31,6 +32,7 @@ namespace BeLifeWPF
         {
             InitializeComponent();
             this.MostrarFecha();
+            this.MostrarNumeroDeClientes();
         }
 
         public void MostrarFecha()
@@ -45,6 +47,23 @@ namespace BeLifeWPF
         }
 
         private void BtnListarContratos_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new ListarContratos());
+        }
+
+        public void MostrarNumeroDeClientes()
+        {
+
+            BelifeLibrary.Cliente cli = new BelifeLibrary.Cliente();
+            TNumClientes.Text = cli.ContarTotalClientes().ToString();
+        }
+
+        private void BtnListarClientes_Click_1(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new ListarClientes());
+        }
+
+        private void BtnListarContratos_Click_1(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new ListarContratos());
         }
