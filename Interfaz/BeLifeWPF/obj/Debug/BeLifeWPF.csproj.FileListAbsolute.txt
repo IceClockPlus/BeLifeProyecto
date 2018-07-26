@@ -1,0 +1,317 @@
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\MainWindow.g.cs
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\App.g.cs
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\MainWindow.baml
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\ControlzEx.dll
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\MahApps.Metro.dll
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\System.Windows.Interactivity.dll
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\ControlzEx.pdb
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\MahApps.Metro.pdb
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\bin\Debug\MahApps.Metro.xml
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\App.baml
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Themes\Default.baml
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Themes\HighContrast.baml
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Menus\MenuClientes.g.cs
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.g.cs
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Menus\MenuClientes.baml
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.baml
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Menus\MenuContrato.g.cs
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\Menus\MenuContrato.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\ControlzEx.dll
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\ControlzEx.pdb
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Menus\MenuContrato.g.cs
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Menus\MenuClientes.g.cs
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.g.cs
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\App.g.cs
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\App.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\MainWindow.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Menus\MenuContrato.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Menus\MenuClientes.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Themes\Default.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\Themes\HighContrast.baml
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+C:\Users\cetecom\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.csprojAssemblyReference.cache
+C:\Users\CETECOM\Downloads\ABP3\BeLifeWPF\obj\Debug\BeLifeWPF.csprojResolveAssemblyReference.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csprojAssemblyReference.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Themes\Default.baml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuContrato.g.cs
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuClientes.g.cs
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.g.cs
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.g.cs
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.baml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.baml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuContrato.baml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuClientes.baml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.baml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Themes\HighContrast.baml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CopyComplete
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\System.Windows.Interactivity.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.xml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.xml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csprojAssemblyReference.cache
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Themes\Default.baml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuContrato.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuClientes.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.baml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.baml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuContrato.baml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuClientes.baml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Menus\MenuPrincipal.baml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\Themes\HighContrast.baml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\System.Windows.Interactivity.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csprojAssemblyReference.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarContrato.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\EliminarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarClientes.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarContratos.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuClientes.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuContratos.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuPrincipal.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarContrato.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarContrato.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\EliminarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarClientes.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarContratos.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuClientes.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuContratos.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuPrincipal.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarContrato.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\System.Windows.Interactivity.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csprojAssemblyReference.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarContrato.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\EliminarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarClientes.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarContratos.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuClientes.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuContratos.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuPrincipal.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarContrato.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\App.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\AgregarContrato.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\EliminarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarClientes.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ListarContratos.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MainWindow.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuClientes.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuContratos.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\MenuPrincipal.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\ModificarContrato.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP_Final\BeLifeSolution001\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\System.Windows.Interactivity.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BeLifeDatos.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\BelifeLibrary.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\Negocio.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\Negocio.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\ControlzEx.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\bin\Debug\MahApps.Metro.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csprojAssemblyReference.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\AgregarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\AgregarContrato.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\EliminarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ListarClientes.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ListarContratos.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MainWindow.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MenuClientes.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MenuContratos.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MenuPrincipal.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ModificarCliente.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ModificarContrato.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\App.g.cs
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\App.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\AgregarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\AgregarContrato.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\EliminarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ListarClientes.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ListarContratos.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MainWindow.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MenuClientes.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MenuContratos.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\MenuPrincipal.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ModificarCliente.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\ModificarContrato.baml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\Interfaz\BeLifeWPF\obj\Debug\BeLifeWPF.pdb

@@ -1,0 +1,30 @@
+﻿<Page x:Class="BeLifeWPF.MenuClientes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeLifeWPF"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"  
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1080"
+      Title="MenuClientes">
+
+    <Grid>
+        <Controls:Tile x:Name="TAgregarCliente" Title="Agregar" Background="#FF423D3D" TitleFontSize="25" Margin="350,192,495,295" Height="Auto" Width="Auto" Click="TAgregarCliente_Click">
+            <Image Source="/BeLifeWPF;component/Imagenes/AgregarCliente.png" />
+        </Controls:Tile>
+        <Controls:Tile x:Name="TModificarCliente" Title="Modificar"  Background="#FF423D3D" TitleFontSize="25" Margin="665,192,180,295" Height="Auto" Width="Auto" Click="TModificarCliente_Click">
+            <Image Source="/BeLifeWPF;component/Imagenes/ModificarCliente.png"/>
+        </Controls:Tile>
+        <Controls:Tile x:Name="TEliminarCliente" Title="Eliminar" Background="#FF423D3D" TitleFontSize="25" Margin="350,445,495,42" RenderTransformOrigin="0.464,0.893" Width="Auto" Height="Auto" Click="TEliminarCliente_Click">
+            <Image Source="/BeLifeWPF;component/Imagenes/EliminarCliente.png"/>
+        </Controls:Tile>
+        <Controls:Tile x:Name="TListarClientes" Title="Listar" Background="#FF423D3D" TitleFontSize="25" Margin="665,445,180,42" Width="Auto" Height="Auto" Click="TListarClientes_Click">
+            <Image Source="/BeLifeWPF;component/Imagenes/ListarCliente.png"/>
+        </Controls:Tile>
+        <Label Content="SEGUROS BELIFE - CLIENTES" FontSize="30" Margin="395,50,265,0" VerticalAlignment="Top" FontWeight="Bold" />
+
+
+
+    </Grid>
+</Page>

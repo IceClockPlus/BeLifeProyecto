@@ -1,0 +1,79 @@
+﻿<Page x:Class="BeLifeWPF.AgregarContrato"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeLifeWPF"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro" 
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1080"
+      Title="AgregarContrato">
+
+    <Grid>
+        <Label Content="SEGUROS BELIFE - AGREGAR CONTRATOS" FontSize="30"  Margin="395,50,85,0" VerticalAlignment="Top" FontWeight="Bold" />
+
+        <TextBox x:Name="TxtRut" HorizontalAlignment="Left" Height="35" Margin="200,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="TxtNombres" IsReadOnly="True" HorizontalAlignment="Left" Height="35" Margin="200,270,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+        <TextBox x:Name="TxtApellidos" IsReadOnly="True" HorizontalAlignment="Left" Height="35" Margin="200,340,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+        <Label Content="Rut" HorizontalAlignment="Left" FontSize="15" Margin="200,164,0,0" VerticalAlignment="Top"/>
+        <Label Content="Apellidos" HorizontalAlignment="Left" FontSize="15" Margin="200,310,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nombres" HorizontalAlignment="Left" FontSize="15" Margin="200,240,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnBuscarCliente" Content="Buscar Cliente" FontSize="15" HorizontalAlignment="Left" Margin="200,390,0,0" VerticalAlignment="Top" Width="120" Style="{StaticResource AccentedSquareButtonStyle}" Height="35"/>
+        <ComboBox x:Name="ComboTipoContratos" HorizontalAlignment="Left" Margin="420,190,0,0" VerticalAlignment="Top" Width="150" Height="35" SelectionChanged="ComboTipoContratos_SelectionChanged"/>
+        <Label Content="Tipo Contrato" HorizontalAlignment="Left" FontSize="15" Margin="420,164,0,0" VerticalAlignment="Top" RenderTransformOrigin="8.182,0.7"/>
+        <ComboBox x:Name="ComboPlanes" HorizontalAlignment="Left" Margin="420,270,0,0" VerticalAlignment="Top" Width="150" Height="35"/>
+        <Label Content="Planes" HorizontalAlignment="Left" FontSize="15" Margin="420,244,0,0" VerticalAlignment="Top" RenderTransformOrigin="8.182,0.7"/>
+        <DatePicker x:Name="DtFechaVigencia" HorizontalAlignment="Left" Margin="420,340,0,0" VerticalAlignment="Top" Height="35" Width="150"/>
+        <Label Content="Fecha Vigencia" HorizontalAlignment="Left" FontSize="15" Margin="420,310,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtPrimaAnual" HorizontalAlignment="Left" Height="35" Margin="200,505,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Prima Anual" HorizontalAlignment="Left" FontSize="15" Margin="200,475,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtPrimaMensual" HorizontalAlignment="Left" Height="35" Margin="360,505,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Prima Mensual" HorizontalAlignment="Left" FontSize="15" Margin="360,475,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtObservaciones" HorizontalAlignment="Left" Height="80" Margin="200,590,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="280"/>
+        <Label Content="Observaciones" HorizontalAlignment="Left" FontSize="15" Margin="200,560,0,0" VerticalAlignment="Top"/>
+
+        <Grid x:Name="GridSalud" HorizontalAlignment="Left" Height="476" Margin="615,164,0,0" VerticalAlignment="Top" Width="440" Visibility="Hidden">
+            <CheckBox x:Name="ChkDeclaracion" Content="Declaración Salud" FontSize="15" HorizontalAlignment="Left" Margin="40,106,0,0" VerticalAlignment="Top" Height="33"/>
+            <Button x:Name="BtnAgregarConVida" Content="Agregar Contrato" FontSize="15" HorizontalAlignment="Left" Margin="50,356,0,0" VerticalAlignment="Top" Width="157" Style="{StaticResource AccentedSquareButtonStyle}" Height="40" Click="BtnAgregarConVida_Click"/>
+
+
+        </Grid>
+
+        <Grid x:Name="GridVivienda" HorizontalAlignment="Left" Height="476" Margin="615,164,0,0" VerticalAlignment="Top" Width="440" Visibility="Hidden">
+            <Button Content="Agregar Contrato" FontSize="15" HorizontalAlignment="Left" Margin="50,356,0,0" VerticalAlignment="Top" Width="157" Style="{StaticResource AccentedSquareButtonStyle}" Height="40"/>
+            <ComboBox HorizontalAlignment="Left" Margin="40,25,0,0" VerticalAlignment="Top" Width="155" Height="36"/>
+            <Label Content="Región" HorizontalAlignment="Left" FontSize="15" Margin="40,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="8.182,0.7"/>
+            <ComboBox HorizontalAlignment="Left" Margin="225,25,0,0" VerticalAlignment="Top" Width="155" Height="36"/>
+            <Label Content="Comuna" HorizontalAlignment="Left" FontSize="15" Margin="225,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="8.182,0.7"/>
+            <TextBox x:Name="TxtDireccion" HorizontalAlignment="Left" Height="35" Margin="40,176,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="235"/>
+            <Label Content="Dirección" HorizontalAlignment="Left" FontSize="15" Margin="40,146,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="TxtCodPostal" HorizontalAlignment="Left" Height="35" Margin="40,106,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+            <Label Content="Codigo Postal" HorizontalAlignment="Left" FontSize="15" Margin="40,76,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="TxtAnnoConstruccion"  HorizontalAlignment="Left" Height="35" Margin="225,106,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+            <Label Content="Año Construcción" HorizontalAlignment="Left" FontSize="15" Margin="225,76,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="TxtValorInmueble"  HorizontalAlignment="Left" Height="35" Margin="40,256,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+            <Label Content="Valor Inmueble" HorizontalAlignment="Left" FontSize="15" Margin="40,226,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="TxtValorContenido"  HorizontalAlignment="Left" Height="35" Margin="225,256,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+            <Label Content="Valor Contenido" HorizontalAlignment="Left" FontSize="15" Margin="225,226,0,0" VerticalAlignment="Top"/>
+
+
+        </Grid>
+
+        <Grid x:Name="GridVehiculo" HorizontalAlignment="Left" Height="476" Margin="615,164,0,0" VerticalAlignment="Top" Width="440" Visibility="Hidden">
+            <Button x:Name="BtnAgregarConVeh" Content="Agregar Contrato" FontSize="15" HorizontalAlignment="Left" Margin="50,356,0,0" VerticalAlignment="Top" Width="157" Style="{StaticResource AccentedSquareButtonStyle}" Height="40" Click="BtnAgregarConVeh_Click"/>
+            <ComboBox x:Name="ComboMarca" HorizontalAlignment="Left" Margin="40,25,0,0" VerticalAlignment="Top" Width="155" Height="36" SelectionChanged="ComboMarca_SelectionChanged"/>
+            <Label Content="Marca" HorizontalAlignment="Left" FontSize="15" Margin="40,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="8.182,0.7"/>
+            <ComboBox x:Name="ComboModelo" HorizontalAlignment="Left" Margin="225,25,0,0" VerticalAlignment="Top" Width="155" Height="36"/>
+            <Label Content="Modelo" HorizontalAlignment="Left" FontSize="15" Margin="225,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="8.182,0.7"/>
+            <TextBox x:Name="TxtAnnoVehiculo" HorizontalAlignment="Left" Height="35" Margin="40,176,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="97"/>
+            <Label Content="Año Vehiculo" HorizontalAlignment="Left" FontSize="15" Margin="40,146,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="TxtPatente" HorizontalAlignment="Left" Height="35" Margin="40,106,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+            <Label Content="Patente" HorizontalAlignment="Left" FontSize="15" Margin="40,76,0,0" VerticalAlignment="Top"/>
+
+            
+
+        </Grid>
+
+
+    </Grid>
+</Page>

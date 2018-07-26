@@ -1,0 +1,177 @@
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.pdb
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.pdb
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll.config
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.pdb
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll.config
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.pdb
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.xml
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CopyComplete
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.dll
+C:\Users\José Ignacio\Downloads\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2-master_superada\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.pdb
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeLybreryTest.pdb
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.pdb
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BelifeLibrary.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.pdb
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\BeLifeDatos.dll.config
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\bin\Debug\Negocio.pdb
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BelifeLibraryTest.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.dll
+C:\Users\BlackSeido\Desktop\extraccion\ABP 2\BeLifeABP2_QA_last\BeLifeSolution001\BeLifeLybreryTest\obj\Debug\BeLifeLybreryTest.pdb

@@ -1,0 +1,28 @@
+﻿<Page x:Class="BeLifeWPF.MenuContratos"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeLifeWPF"
+       xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"  
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1080"
+      Title="MenuContratos">
+
+    <Grid>
+        <Controls:Tile x:Name="TAgregarContrato" Title="Agregar" TitleFontSize="25" Background="#FF423D3D" Margin="350,192,495,295" Height="Auto" Width="Auto" Click="TAgregarContrato_Click">
+            <Image Source="/BeLifeWPF;component/Imagenes/AgregarContrato.png"  />
+        </Controls:Tile>
+        <Controls:Tile x:Name="TModificarContrato" Title="Modificar" TitleFontSize="25" Background="#FF423D3D" Margin="665,192,180,295" Height="Auto" Width="Auto" Click="TModificarContrato_Click">
+            <Image Source="/BeLifeWPF;component/Imagenes/ModificarContrato.png" />
+        </Controls:Tile>
+        <Controls:Tile x:Name="TTerminarContrato" Title="Terminar" Background="#FF423D3D" TitleFontSize="25" Margin="350,445,495,42" RenderTransformOrigin="0.464,0.893" Width="Auto" Height="Auto">
+            <Image Source="/BeLifeWPF;component/Imagenes/TerminarContrato.png" />
+        </Controls:Tile>
+        <Controls:Tile x:Name="TListarContratos" Title="Listar" Background="#FF423D3D" TitleFontSize="25" Margin="665,445,180,42" Width="Auto" Height="Auto" Click="TListarContratos_Click">
+            <Image Source="/BeLifeWPF;component/Imagenes/ListarDocumentos.png" />
+        </Controls:Tile>
+        <Label Content="SEGUROS BELIFE - CONTRATOS" FontSize="30"  Margin="395,50,205,0" VerticalAlignment="Top" FontWeight="Bold" />
+
+    </Grid>
+</Page>

@@ -1,0 +1,113 @@
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csprojAssemblyReference.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CopyComplete
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\Visual C#\ABP2\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csprojAssemblyReference.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CopyComplete
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP2\BeLifeSolution001\BelifeLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.pdb
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll.config
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csprojAssemblyReference.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CopyComplete
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.dll
+C:\Users\tweis\Desktop\Thomas\Universidad\VisualC#\APB unidad 3\Source\BeLifeABP3\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.xml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csprojAssemblyReference.cache
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\BeLifeDatos.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\Negocio.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csprojAssemblyReference.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeABP3-master\BeLifeSolution001\BelifeLibrary\obj\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\BelifeLibrary.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\BelifeLibrary.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\BeLifeDatos.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\EntityFramework.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\Negocio.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\BeLifeDatos.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\BeLifeDatos.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\Negocio.pdb
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\Negocio.dll.config
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\EntityFramework.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\obj\Debug\BelifeLibrary.csprojAssemblyReference.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CoreCompileInputs.cache
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\obj\Debug\BelifeLibrary.csproj.CopyComplete
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\obj\Debug\BelifeLibrary.dll
+E:\Documentos HDD\Proyectos C#\BeLifeProyect\BeLifeFinal\BelifeLibrary\obj\Debug\BelifeLibrary.pdb
